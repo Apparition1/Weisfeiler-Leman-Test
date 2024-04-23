@@ -16,14 +16,14 @@ Recall that the WL test never says "yes," only "no" or "I don't know."
 
 Example: 
 Both graphs in this example are three nodes connected in a line: o-o-o. They differ in that the rows and columns of their adjacency matrices have been permuted. 
-Input: 
-3
-0 1 1 
-1 0 0 
-1 0 0 
-0 1 0
-1 0 1 
-0 1 0
+Input: <br>
+3<br> 
+0 1 1 <br> 
+1 0 0 <br> 
+1 0 0 <br> 
+0 1 0<br> 
+1 0 1 <br> 
+0 1 0<br> 
 
 Output:
 We cannot conclude that they are different
