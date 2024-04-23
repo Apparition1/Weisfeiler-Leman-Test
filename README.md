@@ -12,7 +12,7 @@ One of the following:
 1. We cannot conclude that they are different
 2. We can conclude that they are different
 
-Recall that the WL test never says "yes", only "no" or "I don't know."
+Recall that the WL test never says "yes," only "no" or "I don't know."
 
 Example: 
 Both graphs in this example are three nodes connected in a line: o-o-o. They differ in that the rows and columns of their adjacency matrices have been permuted. 
